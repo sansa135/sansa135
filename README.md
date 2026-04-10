@@ -35,7 +35,14 @@
 
 ## 📂 Projects
 - 🔹 **Project Name** – AI CHATBOT FOR FARMERS
-- 🔹 **Project Name** - Heartsync 
+- 🔹 **Project Name** - Heartsync
+- 🔹 **Project Name**-E-commerce Analytics & Fraud Detection System
+- 🔹 **Project Name** – flux
+- 🔹 **Project Name** – forage midas
+- 🔹 **Project Name** – DeepBovine: Vision-Based Weight Estimation for feed efficiency
+- 
+- 
+- 
 
 
 
