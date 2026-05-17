@@ -2,7 +2,7 @@
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning BTECH
 🎓 Computer Science Student  
-💻 Interested in Software Development, Problem Solving & Core CS  
+💻 Interested in , data analytics ,Software Development, Problem Solving & Core CS  
 📍 India  
 
 ---
