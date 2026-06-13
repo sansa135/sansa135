@@ -1,7 +1,17 @@
  
 <h1 align="center">Hi 👋, I'm Sanskruti Wasalwar</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=220&section=header&text=Sanskruti%20Wasalwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=60"/>
+  <img src="https://share.google/dmvH9Uo3TXJ4yD5Xi" width="100%" alt="Data Science Banner">
+</p>
+
+<h1 align="center">✨ Sanskruti Wasalwar ✨</h1>
+
+<h3 align="center">
+📊 Data Analyst | 🤖 Data Scientist | 🚀 AI/ML Engineer
+</h3>
+
+<p align="center">
+Turning Data into Insights & AI into Real-World Solutions
 </p>
 
 <h1 align="center">✨ Welcome to My Data Universe ✨</h1>
