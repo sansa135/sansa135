@@ -1,5 +1,88 @@
  
 <h1 align="center">Hi 👋, I'm Sanskruti Wasalwar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=220&section=header&text=Sanskruti%20Wasalwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=60"/>
+</p>
+
+<h1 align="center">✨ Welcome to My Data Universe ✨</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Data+Analyst+📊;Data+Scientist+🤖;Machine+Learning+Enthusiast+🚀;Building+AI+Solutions+💡"/>
+</p>
+
+---
+
+## 🌸 About Me
+
+👩‍💻 B.Tech CSE @ VIT Bhopal
+
+📊 Data Analytics & Business Intelligence
+
+🤖 Machine Learning & Predictive Analytics
+
+📈 Power BI Dashboard Developer
+
+🚀 Exploring Agentic AI & LLMs
+
+---
+
+# 🛠 Tech Stack
+
+### 📊 Data Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+
+### 🤖 Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+---
+
+# 🚀 Featured Projects
+
+🔹 AI-Powered Fraud Detection System
+
+🔹 InsightX AI - Customer Intelligence Platform
+
+🔹 CryptoPulse AI - Cryptocurrency Analytics
+
+🔹 Customer Churn Prediction
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sansa135&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansa135&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sansa135&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+💼 LinkedIn
+
+📧 sanskrutiwasalwar@gmail.com
+
+🐙 GitHub: @sansa135
 
 <h3 align="center">📊 Data Analyst | 🤖 Data Scientist | 🚀 AI/ML Enthusiast</h3>
 
