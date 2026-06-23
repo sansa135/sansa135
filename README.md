@@ -1,6 +1,5 @@
 
-
-           
+         
 <h1 align="center">Hi 👋, I'm Sanskruti Wasalwar</h1>
 <p align="center">  
   <img src="https://share.google/dmvH9Uo3TXJ4yD5Xi" width="100%" alt="Data Science Banner">
