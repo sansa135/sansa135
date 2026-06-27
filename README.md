@@ -8,7 +8,7 @@
 <h1 align="center">✨ Sanskruti Wasalwar ✨</h1>
 
 <h3 align="center">
-📊 Data Analyst | 🤖 Data Scientist | 🚀 AI/ML Engineer
+📊 Data Analyst | 🤖 Data Scientist | 🚀 AI/ML Engineer 
 </h3>
 
 <p align="center">
