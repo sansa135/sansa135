@@ -18,7 +18,7 @@
 
 Aspiring Data Scientist and Data Analyst with strong expertise in **Python, SQL, Machine Learning, Power BI, and Predictive Analytics**. Experienced in end-to-end data science workflows — from data cleaning and EDA to building and deploying ML models — for use cases including fraud detection, customer intelligence, and crypto market analytics. Skilled in statistical analysis, feature engineering, dashboard development, and translating data into actionable business insights.
 
-- 🎓 B.Tech in Computer Science & Engineering @ Vellore Institute of Technology, Bhopal (2023–2027) — CGPA 8.25
+- 🎓 B.Tech in Computer Science & Engineering @ Vellore Institute of Technology, Bhopal (2023–2027) — CGPA 8.65
 - 🌱 Currently working as an **AI/ML Intern** at **MP Online Limited**, Madhya Pradesh (Remote)
 - 💡 Selected as **Contributor & Mentee** in **GirlScript Summer of Code 2026**
 
