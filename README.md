@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskruti Wasalwar</h1>
 <h3 align="center">Data Scientist | Data Analyst | ML Enthusiast</h3>
 
-<p align="center">
+<p align="center">  
   <img src="gif.gif" width="400" alt="coding gif"/>
 </p>
 
